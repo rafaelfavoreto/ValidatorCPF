@@ -1,0 +1,6 @@
+@ValidatorCPF_HostAddress = http://localhost:5001
+
+GET {{ValidatorCPF_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

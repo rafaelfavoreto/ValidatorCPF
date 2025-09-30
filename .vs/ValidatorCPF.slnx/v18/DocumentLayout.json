@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Programacao\\Git-Repositories\\skills\\validator-cpf-cnpj\\ValidatorCPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{961FF8A0-41EA-E0A3-2702-FFC0EF7B0CB5}|ValidatorCPF\\ValidatorCPF.csproj|e:\\programacao\\git-repositories\\skills\\validator-cpf-cnpj\\validatorcpf\\validatorcpf\\controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961FF8A0-41EA-E0A3-2702-FFC0EF7B0CB5}|ValidatorCPF\\ValidatorCPF.csproj|solutionrelative:validatorcpf\\controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961FF8A0-41EA-E0A3-2702-FFC0EF7B0CB5}|ValidatorCPF\\ValidatorCPF.csproj|e:\\programacao\\git-repositories\\skills\\validator-cpf-cnpj\\validatorcpf\\validatorcpf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961FF8A0-41EA-E0A3-2702-FFC0EF7B0CB5}|ValidatorCPF\\ValidatorCPF.csproj|solutionrelative:validatorcpf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961FF8A0-41EA-E0A3-2702-FFC0EF7B0CB5}|ValidatorCPF\\ValidatorCPF.csproj|e:\\programacao\\git-repositories\\skills\\validator-cpf-cnpj\\validatorcpf\\validatorcpf\\validatorcpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{961FF8A0-41EA-E0A3-2702-FFC0EF7B0CB5}|ValidatorCPF\\ValidatorCPF.csproj|solutionrelative:validatorcpf\\validatorcpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961FF8A0-41EA-E0A3-2702-FFC0EF7B0CB5}|ValidatorCPF\\ValidatorCPF.csproj|e:\\programacao\\git-repositories\\skills\\validator-cpf-cnpj\\validatorcpf\\validatorcpf\\configuration\\swaggerdocumentation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961FF8A0-41EA-E0A3-2702-FFC0EF7B0CB5}|ValidatorCPF\\ValidatorCPF.csproj|solutionrelative:validatorcpf\\configuration\\swaggerdocumentation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961FF8A0-41EA-E0A3-2702-FFC0EF7B0CB5}|ValidatorCPF\\ValidatorCPF.csproj|e:\\programacao\\git-repositories\\skills\\validator-cpf-cnpj\\validatorcpf\\validatorcpf\\ioc\\moduloinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961FF8A0-41EA-E0A3-2702-FFC0EF7B0CB5}|ValidatorCPF\\ValidatorCPF.csproj|solutionrelative:validatorcpf\\ioc\\moduloinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961FF8A0-41EA-E0A3-2702-FFC0EF7B0CB5}|ValidatorCPF\\ValidatorCPF.csproj|e:\\programacao\\git-repositories\\skills\\validator-cpf-cnpj\\validatorcpf\\validatorcpf\\configuration\\apiconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961FF8A0-41EA-E0A3-2702-FFC0EF7B0CB5}|ValidatorCPF\\ValidatorCPF.csproj|solutionrelative:validatorcpf\\configuration\\apiconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961FF8A0-41EA-E0A3-2702-FFC0EF7B0CB5}|ValidatorCPF\\ValidatorCPF.csproj|e:\\programacao\\git-repositories\\skills\\validator-cpf-cnpj\\validatorcpf\\validatorcpf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{961FF8A0-41EA-E0A3-2702-FFC0EF7B0CB5}|ValidatorCPF\\ValidatorCPF.csproj|solutionrelative:validatorcpf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961FF8A0-41EA-E0A3-2702-FFC0EF7B0CB5}|ValidatorCPF\\ValidatorCPF.csproj|e:\\programacao\\git-repositories\\skills\\validator-cpf-cnpj\\validatorcpf\\validatorcpf\\ioc\\injectionmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961FF8A0-41EA-E0A3-2702-FFC0EF7B0CB5}|ValidatorCPF\\ValidatorCPF.csproj|solutionrelative:validatorcpf\\ioc\\injectionmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961FF8A0-41EA-E0A3-2702-FFC0EF7B0CB5}|ValidatorCPF\\ValidatorCPF.csproj|e:\\programacao\\git-repositories\\skills\\validator-cpf-cnpj\\validatorcpf\\validatorcpf\\application\\documentapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961FF8A0-41EA-E0A3-2702-FFC0EF7B0CB5}|ValidatorCPF\\ValidatorCPF.csproj|solutionrelative:validatorcpf\\application\\documentapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961FF8A0-41EA-E0A3-2702-FFC0EF7B0CB5}|ValidatorCPF\\ValidatorCPF.csproj|e:\\programacao\\git-repositories\\skills\\validator-cpf-cnpj\\validatorcpf\\validatorcpf\\application\\iapplication\\idocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961FF8A0-41EA-E0A3-2702-FFC0EF7B0CB5}|ValidatorCPF\\ValidatorCPF.csproj|solutionrelative:validatorcpf\\application\\iapplication\\idocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ValidatorCPF.csproj",
+              "DocumentMoniker": "E:\\Programacao\\Git-Repositories\\skills\\validator-cpf-cnpj\\ValidatorCPF\\ValidatorCPF\\ValidatorCPF.csproj",
+              "RelativeDocumentMoniker": "ValidatorCPF\\ValidatorCPF.csproj",
+              "ToolTip": "E:\\Programacao\\Git-Repositories\\skills\\validator-cpf-cnpj\\ValidatorCPF\\ValidatorCPF\\ValidatorCPF.csproj",
+              "RelativeToolTip": "ValidatorCPF\\ValidatorCPF.csproj",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAnwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-30T16:45:33.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SwaggerDocumentation.cs",
+              "DocumentMoniker": "E:\\Programacao\\Git-Repositories\\skills\\validator-cpf-cnpj\\ValidatorCPF\\ValidatorCPF\\Configuration\\SwaggerDocumentation.cs",
+              "RelativeDocumentMoniker": "ValidatorCPF\\Configuration\\SwaggerDocumentation.cs",
+              "ToolTip": "E:\\Programacao\\Git-Repositories\\skills\\validator-cpf-cnpj\\ValidatorCPF\\ValidatorCPF\\Configuration\\SwaggerDocumentation.cs",
+              "RelativeToolTip": "ValidatorCPF\\Configuration\\SwaggerDocumentation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T16:37:59.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ModuloInjection.cs",
+              "DocumentMoniker": "E:\\Programacao\\Git-Repositories\\skills\\validator-cpf-cnpj\\ValidatorCPF\\ValidatorCPF\\Ioc\\ModuloInjection.cs",
+              "RelativeDocumentMoniker": "ValidatorCPF\\Ioc\\ModuloInjection.cs",
+              "ToolTip": "E:\\Programacao\\Git-Repositories\\skills\\validator-cpf-cnpj\\ValidatorCPF\\ValidatorCPF\\Ioc\\ModuloInjection.cs",
+              "RelativeToolTip": "ValidatorCPF\\Ioc\\ModuloInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T16:20:29.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApiConfiguration.cs",
+              "DocumentMoniker": "E:\\Programacao\\Git-Repositories\\skills\\validator-cpf-cnpj\\ValidatorCPF\\ValidatorCPF\\Configuration\\ApiConfiguration.cs",
+              "RelativeDocumentMoniker": "ValidatorCPF\\Configuration\\ApiConfiguration.cs",
+              "ToolTip": "E:\\Programacao\\Git-Repositories\\skills\\validator-cpf-cnpj\\ValidatorCPF\\ValidatorCPF\\Configuration\\ApiConfiguration.cs",
+              "RelativeToolTip": "ValidatorCPF\\Configuration\\ApiConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T16:13:48.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Programacao\\Git-Repositories\\skills\\validator-cpf-cnpj\\ValidatorCPF\\ValidatorCPF\\appsettings.json",
+              "RelativeDocumentMoniker": "ValidatorCPF\\appsettings.json",
+              "ToolTip": "E:\\Programacao\\Git-Repositories\\skills\\validator-cpf-cnpj\\ValidatorCPF\\ValidatorCPF\\appsettings.json",
+              "RelativeToolTip": "ValidatorCPF\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-30T16:05:35.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Programacao\\Git-Repositories\\skills\\validator-cpf-cnpj\\ValidatorCPF\\ValidatorCPF\\Program.cs",
+              "RelativeDocumentMoniker": "ValidatorCPF\\Program.cs",
+              "ToolTip": "E:\\Programacao\\Git-Repositories\\skills\\validator-cpf-cnpj\\ValidatorCPF\\ValidatorCPF\\Program.cs",
+              "RelativeToolTip": "ValidatorCPF\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T16:03:45.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InjectionModule.cs",
+              "DocumentMoniker": "E:\\Programacao\\Git-Repositories\\skills\\validator-cpf-cnpj\\ValidatorCPF\\ValidatorCPF\\Ioc\\InjectionModule.cs",
+              "RelativeDocumentMoniker": "ValidatorCPF\\Ioc\\InjectionModule.cs",
+              "ToolTip": "E:\\Programacao\\Git-Repositories\\skills\\validator-cpf-cnpj\\ValidatorCPF\\ValidatorCPF\\Ioc\\InjectionModule.cs",
+              "RelativeToolTip": "ValidatorCPF\\Ioc\\InjectionModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T16:01:41.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DocumentController.cs",
+              "DocumentMoniker": "E:\\Programacao\\Git-Repositories\\skills\\validator-cpf-cnpj\\ValidatorCPF\\ValidatorCPF\\Controllers\\DocumentController.cs",
+              "RelativeDocumentMoniker": "ValidatorCPF\\Controllers\\DocumentController.cs",
+              "ToolTip": "E:\\Programacao\\Git-Repositories\\skills\\validator-cpf-cnpj\\ValidatorCPF\\ValidatorCPF\\Controllers\\DocumentController.cs",
+              "RelativeToolTip": "ValidatorCPF\\Controllers\\DocumentController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T15:43:09.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DocumentApplication.cs",
+              "DocumentMoniker": "E:\\Programacao\\Git-Repositories\\skills\\validator-cpf-cnpj\\ValidatorCPF\\ValidatorCPF\\Application\\DocumentApplication.cs",
+              "RelativeDocumentMoniker": "ValidatorCPF\\Application\\DocumentApplication.cs",
+              "ToolTip": "E:\\Programacao\\Git-Repositories\\skills\\validator-cpf-cnpj\\ValidatorCPF\\ValidatorCPF\\Application\\DocumentApplication.cs",
+              "RelativeToolTip": "ValidatorCPF\\Application\\DocumentApplication.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAowBkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T15:41:59.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDocument.cs",
+              "DocumentMoniker": "E:\\Programacao\\Git-Repositories\\skills\\validator-cpf-cnpj\\ValidatorCPF\\ValidatorCPF\\Application\\IApplication\\IDocument.cs",
+              "RelativeDocumentMoniker": "ValidatorCPF\\Application\\IApplication\\IDocument.cs",
+              "ToolTip": "E:\\Programacao\\Git-Repositories\\skills\\validator-cpf-cnpj\\ValidatorCPF\\ValidatorCPF\\Application\\IApplication\\IDocument.cs",
+              "RelativeToolTip": "ValidatorCPF\\Application\\IApplication\\IDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T15:41:25.48Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

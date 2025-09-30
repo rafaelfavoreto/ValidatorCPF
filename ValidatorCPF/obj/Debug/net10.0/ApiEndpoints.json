@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "ValidatorCPF.Controllers.DocumentController",
+    "Method": "Validate",
+    "RelativePath": "api/document/validate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cpfCnpj",
+        "Type": "Core.Dtos.DocumentDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
